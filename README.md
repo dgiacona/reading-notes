@@ -12,4 +12,4 @@ Explaining growth mindset in my own words is having the ability through dedicati
 3. There is always help available utilize assistance
 
 ## GitHub Profile Link: 
-(https://github.com/dgiacona)
+[GitHub Profile](https://github.com/dgiacona)
