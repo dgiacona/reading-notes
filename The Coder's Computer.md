@@ -2,7 +2,7 @@
 
 ### Taday's Learnings
 
-In class we learned about growth mindset and what it is going to take to be successful in Code Fellows. Our first lab consisted of us bcoming familiar with GitHub and creating a page. This page canbe made public and viewed by anyone. I also learned how to open and opeate my terminal to a degree. We learned some of the following commands.
+In class we learned about growth mindset and what it is going to take to be successful in Code Fellows. Our first lab consisted of us bcoming familiar with GitHub and creating a page. This page canbe made public and viewed by anyone. I also learned how to open and opeate my terminal to a degree. We learned some of the basic navigation commands to operate and move around inside the terminal.
 - "PWD" view where you are
 - "LS" list view of your location
 - "CD" change directory
