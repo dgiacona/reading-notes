@@ -15,7 +15,7 @@ Explaining growth mindset in my own words is having the ability through dedicati
 *[GitHub Profile](https://github.com/dgiacona)*
 
 ## Table of Contents
-[Class 1 Notes](class1.md)
-[Class 2 Notes](class2.md)
-[Class 3 Notes](class3.md)
-[Class 4 Notes](class4.md)
+- [Class 1 Notes](class1.md)
+- [Class 2 Notes](class2.md)
+- [Class 3 Notes](class3.md)
+- [Class 4 Notes](class4.md)
