@@ -13,3 +13,6 @@ Explaining growth mindset in my own words is having the ability through dedicati
 
 ## GitHub Profile Link: 
 *[GitHub Profile](https://github.com/dgiacona)*
+
+## Table of Contents
+[Class 3 Notes](class3.md)
