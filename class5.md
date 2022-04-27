@@ -8,6 +8,7 @@ CSS Stands for Cascading Style Sheet and it allows you to create great looking w
 - External CSS- Style for websites (most popular)
 - Inline CSS- Slows down HTML Load times (not popular)
 - Internal CSS- Great for specific pages
+
 ### CSS Syntax 
 
 CSS is a rule that you define by applying them to specific elements on your web page. You use these rules by selecting what elements you are going to style and utilize a set of curly braces "{ }" inside these curly braces you will write you **declarations** 
