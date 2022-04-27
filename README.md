@@ -8,6 +8,7 @@ My name is Dominic Giacona and I'm  currently located in DC. I'm a navy vet and 
 - [Class 2 Notes](class2.md)
 - [Class 3 Notes](class3.md)
 - [Class 4 Notes](class4.md)
+- [Class 5 Notes](class5.md)
 
 ## GitHub Profile Link: 
 *[GitHub Profile](https://github.com/dgiacona)*
