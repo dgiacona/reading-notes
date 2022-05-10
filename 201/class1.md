@@ -21,3 +21,4 @@ When you visit a website the web server hosting that site could be anywhere in t
 - Connect to the web via ISP or Internet Service Provider
 - Type in URL or domain web address
 - Your computer contacts a network of servers called DNS servers to return that request to the perspective IP address
+
