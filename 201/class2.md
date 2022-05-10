@@ -18,14 +18,14 @@ How to write a script:
 3. Code each step- each of the steps need to be written in a programming language that the computer understands.
 
 ### Comparison operators
-===: Strict equal to
-!==: Strict not equal to
-==: is equal to
-!=: is not equal to
-<: less than
->: greater than
-<=: less than or equal to
-=>: greater than or equal to
+- ===: Strict equal to
+- !==: Strict not equal to
+- ==: is equal to
+- !=: is not equal to
+- <: less than
+- >: greater than
+- <=: less than or equal to
+- =>: greater than or equal to
 
 ### Three types of loops
 for: loops through items in a list or array.
