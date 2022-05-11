@@ -11,10 +11,10 @@
   <li>place line item here</li>
 </ol>`
 
-**Ordered List**
-`<ol>
+**Unordered List**
+`<ul>
   <li>place line item here</li>
-</ol>`
+</ul>`
 
 **Definition List**
 `<dl>
