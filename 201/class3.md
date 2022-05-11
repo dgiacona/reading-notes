@@ -20,7 +20,7 @@
 </ul>```
 
 **Definition List**
-```ntml
+```html
 <dl>
   <dt>used for the term</dt>
   <dd>used to contain the definition</dd>
