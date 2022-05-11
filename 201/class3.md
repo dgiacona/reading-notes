@@ -7,20 +7,21 @@
 - **Definition Lists** lists that are made up of a set of terms along the definitions for each of those terms
 
 **Ordered List**
-`<ol>
+
+```<ol>
   <li>place line item here</li>
-</ol>`
+</ol>```
 
 **Unordered List**
-`<ul>
+```<ul>
   <li>place line item here</li>
-</ul>`
+</ul>```
 
 **Definition List**
-`<dl>
+```<dl>
   <dt>used for the term</dt>
   <dd>used to contain the definition</dd>
-</dl>`
+</dl>```
 
 ### HTML Boxes
 
