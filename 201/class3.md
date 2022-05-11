@@ -8,17 +8,20 @@
 
 **Ordered List**
 
-```<ol>
+```html
+<ol>
   <li>place line item here</li>
 </ol>```
 
 **Unordered List**
-```<ul>
+```html
+<ul>
   <li>place line item here</li>
 </ul>```
 
 **Definition List**
-```<dl>
+```ntml
+<dl>
   <dt>used for the term</dt>
   <dd>used to contain the definition</dd>
 </dl>```
