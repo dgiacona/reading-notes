@@ -32,3 +32,16 @@ Each Box has three properties that you can adjust and control its appearance.
 - **Margin** sit outside the edge of the border. You can set the width of a margin to create a gap between the borders of two adjacent boxes.
 - **Padding** is the space between the border of a box and any content contained within it. Adding padding can increase the readability of its contents.
 
+### Loops
+
+Three Kinds of loops
+- For Loops 
+- While Loops
+- Do While Loops
+
+initialization (var i =0;)
+condition (i<10;)
+update (i++;)
+
+break - causes termination of loop and to move to code next after the loop statement.
+continue - stop current iteration and check the condition again.
