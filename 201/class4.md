@@ -1,54 +1,42 @@
-# Class 3 Notes
+# Class 4 Notes
 
-### HTML List
+### HTML Links
 
-- **Ordered Lists** lists where each item in the list is numbered
-- **Unordered Lists** lists that begin with a bullet point
-- **Definition Lists** lists that are made up of a set of terms along the definitions for each of those terms
-
-**Ordered List**
+Link can be used to 
+- Got to one website to another
+- Go to one page to another while remaining on the same website
+- Links from one part of a web page to another part of the same page
+- Links the start up your email program and address a new email to someone
 
 ```html
-<ol>
-  <li>place line item here</li>
-</ol>
+<a href="url address">Name of Link</a>
 ```
 
-**Unordered List**
+Email Links
 ```html
-<ul>
-  <li>place line item here</li>
-</ul>
+<a href="email address">Email Dom</a>
 ```
 
-**Definition List**
+Opening Links in a New Window
 ```html
-<dl>
-  <dt>used for the term</dt>
-  <dd>used to contain the definition</dd>
-</dl>
+<a href="url address" target="_blank">Name of Link</a>
 ```
 
-### HTML Boxes
+Linking to the same part of a page - be sure to set the id name in your html so you can reference that name
+```html
+<a href="#id name">Name of Link</a>
+```
 
-Each Box has three properties that you can adjust and control its appearance.
 
-**3 Properties**
+**Functions & Methods**
 
-- **Border** seperates the edge of one box from another
-- **Margin** sit outside the edge of the border. You can set the width of a margin to create a gap between the borders of two adjacent boxes.
-- **Padding** is the space between the border of a box and any content contained within it. Adding padding can increase the readability of its contents.
+- **Functions** consist off a series of statments that have been grouped together because they perform a specific task.
+- **Method** is the same as a function, except methods are created inside and are part of an object
 
-### Loops
+**Objects**
 
-Three Kinds of loops
-- For Loops 
-- While Loops
-- Do While Loops
+- **Objects** are made up of properties and methods to create models of the world using data.
 
-initialization (var i =0;)
-condition (i<10;)
-update (i++;)
+**Built-In Objects**
 
-break - causes termination of loop and to move to code next after the loop statement.
-continue - stop current iteration and check the condition again.
+- **Built-In Objects** the browser comes with a set of objects that act like a toolkit for creating interactive web pages. 
