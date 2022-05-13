@@ -43,8 +43,8 @@ Figure and Figure Caption
 
 ## Color
 
-- **RGB Values**- values for red, green and blue expressed as numbers between 0 and 255 | example rgb(102,205,170)
-- **Hex Codes**- hex values represent values for red, green and blue in hexadecimal code. | example #66cdaa
-- **Color Names**- colors are represented by predefined names but are limited | example Medium Aqua Marine
+- **RGB Values**- values for red, green and blue expressed as numbers between 0 and 255, example rgb(102,205,170)
+- **Hex Codes**- hex values represent values for red, green and blue in hexadecimal code, example #66cdaa
+- **Color Names**- colors are represented by predefined names but are limited, example Medium Aqua Marine
 - **Saturation**- refers to the amount of gray in a color.
 - **Brightness**- refers to how much black is in a color. Maximum brightness would have no black in the color.
