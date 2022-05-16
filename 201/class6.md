@@ -4,6 +4,19 @@
 
 Objects group together a set of variables and functions to create a model of something you would recognize from the real world. In an object, variables and functions take on nre names.
 
+**Primitive vaulues and object references there are 8 data types in Javascript:**
+
+- Boolean
+- Null
+- Undefined
+- Number
+- BigInt
+- String
+- Symbol
+- objects
+
+Primitive values are the value themselves whereas objects contain a reference to said value. Primitive values are immutable meaning they cannot be changed but objects are mutable.
+
 **In an object**
 
 - Variables become **properties**
