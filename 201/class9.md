@@ -1,13 +1,13 @@
 # Class 9 Notes
 
-### **Forms
+### **Forms**
 
 **Why Forms**
 - Forms allow users to search
 - Allows users to perform other functions online used when signing up as a member for something, online shopping, newsletters or mailing lists.
 
 
-## Types of Form controls**
+## **Types of Form controls**
 There are several use cases for forms on you site.
 - Adding Text
 - Making Choices
