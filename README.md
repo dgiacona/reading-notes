@@ -33,3 +33,6 @@ My name is Dominic Giacona and I'm  currently located in DC. I'm a navy vet and 
 - [Class 12 Notes](201/class12.md)
 - [Class 13 Notes](201/class13.md)
 - [Class 14 Notes](201/class14.md)
+
+### Class 301 Reading Notes
+- [Class 1 Notes](301/class1.md)
